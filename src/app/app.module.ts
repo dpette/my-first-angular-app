@@ -28,4 +28,5 @@ import { DataService } from './data.service';
   bootstrap: [AppComponent],
   providers: [DataService]
 })
+
 export class AppModule { }
